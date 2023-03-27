@@ -1,0 +1,11 @@
+torch==1.7.1
+torchvision==0.8.2
+numpy
+opencv-python
+pycocotools==2.0.3
+tensorboardX
+Pillow
+albumentations
+scipy
+easydict
+sacred
