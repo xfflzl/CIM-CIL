@@ -9,3 +9,4 @@ albumentations
 scipy
 easydict
 sacred
+rational-activations
